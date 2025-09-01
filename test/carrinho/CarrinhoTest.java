@@ -21,7 +21,7 @@ public class CarrinhoTest {
 	@BeforeEach
 	public void inicializa() {
 		carrinho = new Carrinho();
-		produto1 = new Produto("A Arte da Guerra", 40);
+		produto1 = new Produto("Sobre a Tranquilidade da Alma", 40);
 		produto2 = new Produto("Sobre a Brevidade da Vida", 15);
 	}
 	
